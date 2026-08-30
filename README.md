@@ -808,7 +808,7 @@ Planned activities:
 
 ## 👤 Author
 
-**Your Name**
+**SOMU R**
 
 IoT / Networking / Data Science Project
 
