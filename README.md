@@ -57,7 +57,7 @@ The proposed architecture connects:
 └──────────────────────────────┘
 ```
 
-The architecture uses **edge computing, network segmentation, MQTT messaging, IP networking, security controls, and scalable cloud services** to support long-term IoT deployment.
+The architecture uses **edge computing, network segmentation, MQTT messaging, IP networking, security controls, and scalable cloud services** to support long-term IoT deployment. 
 
 ---
 
