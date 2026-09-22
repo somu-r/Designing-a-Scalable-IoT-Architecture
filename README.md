@@ -1,4 +1,4 @@
-# 🌐 Designing a Scalable IoT Architecture 
+# 🌐 Designing a Scalable IoT Architecture
 
 ![IoT](https://img.shields.io/badge/Domain-Internet%20of%20Things-blue)
 ![Networking](https://img.shields.io/badge/Networking-IoT%20Architecture-green)
