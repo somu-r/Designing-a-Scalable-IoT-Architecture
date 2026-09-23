@@ -8,7 +8,7 @@
 
 > **Week 1 Project – Designing a Scalable IoT Architecture**
 
-A practical IoT network architecture designed to support the growth of connected sensors and devices from a small pilot deployment to hundreds or thousands of devices.
+A practical IoT network architecture designed to support the growth of connected sensors and devices from a small pilot deployment to hundreds or thousands of devices. 
 
 ---
 
